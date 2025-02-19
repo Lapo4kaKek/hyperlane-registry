@@ -4280,6 +4280,13 @@ telos:
   testRecipient: "0x4Ee9dEBB3046139661b51E17bdfD54Fd63211de7"
   timelockController: "0x0000000000000000000000000000000000000000"
   validatorAnnounce: "0x84444cE490233CFa76E3F1029bc166aa8c266907"
+tontest1:
+  domainRoutingIsmFactory: EQDmJZx74MQGylD4Tkd8tkxjlr9jJ_cwAeV2FcTcZqwRR8B3
+  interchainAccountIsm: EQC8p8C8D5nJQUYVI6kF5f9gn9PNVSzR4IWJkuD0vmLzBIhy
+  interchainAccountRouter: EQAb4m3SRWeKhpKWiIIAjIv_SghL553i-gCDLcni3mMKqh55
+  mailbox: EQDmJZx74MQGylD4Tkd8tkxjlr9jJ_cwAeV2FcTcZqwRR8B3
+  testRecipient: EQAb4m3SRWeKhpKWiIIAjIv_SghL553i-gCDLcni3mMKqh55
+  validatorAnnounce: EQBXpA8naKTWqSP9pbIbJQklPZStnmnBTZ0_tnZClM6HdH_5
 torus:
   aggregationHook: "0xfe94Ea7DA6C45849D395e3d03973aa924553b937"
   domainRoutingIsm: "0xBD70Ea9D599a0FC8158B026797177773C3445730"
