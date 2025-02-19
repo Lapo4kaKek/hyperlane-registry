@@ -13,7 +13,7 @@ domainId: 777001
 isTestnet: true
 name: tontest1
 nativeToken:
-  decimals: 18
+  decimals: 9
   name: TON
   symbol: TON
 protocol: ton
