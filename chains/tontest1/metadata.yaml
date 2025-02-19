@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../schema.json
+blockExplorers:
+  - apiUrl: https://testnet.toncenter.com/api/
+    family: other
+    name: Toncenter
+    url: https://testnet.toncenter.com/
+chainId: 777001
+deployer:
+  name: tmr
+  url: https://t.me/netimer
+displayName: TON Testnet 1
+domainId: 777001
+isTestnet: true
+name: tontest1
+nativeToken:
+  decimals: 9
+  name: TON
+  symbol: TON
+protocol: ton
+rpcUrls:
+  - http: https://testnet.toncenter.com/api/
