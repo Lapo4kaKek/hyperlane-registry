@@ -266,7 +266,8 @@
           "enum": [
             "ethereum",
             "sealevel",
-            "cosmos"
+            "cosmos",
+            "ton"
           ],
           "description": "The type of protocol used by this chain. See ProtocolType for valid values."
         },
