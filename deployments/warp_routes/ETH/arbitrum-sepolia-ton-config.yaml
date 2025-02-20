@@ -11,8 +11,8 @@ tokens:
   - addressOrDenom: "EQDenKZFbm2SMb_lTu-MHoGs1tAjbRHpTi5MSuYVyeaGC6nT"
     chainName: tontest1
     decimals: 18
-    name: Ethereum
-    standard: EvmHypNative
-    symbol: ETH
+    name: Wrapped Ether
+    standard: EvmHypSynthetic
+    symbol: WETH
     connections:
       - token: ethereum|tontest1|EQDenKZFbm2SMb_lTu-MHoGs1tAjbRHpTi5MSuYVyeaGC6nT
