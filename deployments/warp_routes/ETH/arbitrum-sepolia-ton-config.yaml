@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../schema.json
 tokens:
-  - addressOrDenom: "0x31c7eF086cbD1B089aABa7352aCAefebA0646AA2"
+  - addressOrDenom: "0x2f96f5fD967577f52f0110Da468Cf52527Bd92Fa"
     chainName: arbitrumsepolia
     decimals: 18
     name: Ethereum
